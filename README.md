@@ -1,7 +1,7 @@
 
 
 ![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
-<h1 align="center">Hi Folks👋, Anup here!</h1>
+<h1 align="center">Hi Folks👋, Ayush here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
     I am Anup Pal and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
