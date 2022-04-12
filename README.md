@@ -4,7 +4,7 @@
 <h1 align="center">Hi Folks👋, Ayush here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
-    I am Anup Pal and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
+    I am Ayush Raj and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
 
    <br>
     <br/>
@@ -13,7 +13,7 @@
      
 [![](https://img.shields.io/badge/-anup_pal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/anup-pal-ba73a01b6/)](https://www.linkedin.com/in/anup-pal-ba73a01b6/)
 [![](https://img.shields.io/badge/-anuppal602@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:anuppal)](mailto:anuppal602@gmail.com)
-[![](https://img.shields.io/badge/-Anup0099-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anup0099)
+[![](https://img.shields.io/badge/-Anup0099-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsingh0607)
 
 
 
@@ -25,7 +25,7 @@
 
 <!-- - 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding  -->
 
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=aniket7515)
+
 
 <h1>Languages :</h1> 
 
