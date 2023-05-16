@@ -63,4 +63,4 @@
 </a>
 </p>
 
-- **[Detailed Stats](https://gitstats.me/ayushsingh0607)**
+<!-- - **[Detailed Stats](https://gitstats.me/ayushsingh0607)** -->
