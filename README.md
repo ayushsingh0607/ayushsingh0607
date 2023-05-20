@@ -56,11 +56,4 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh0607&theme=tokyonight" align = "center" width="50%">
 </p>
-
-<p align="center">
-<a href="https://github.com/ayushsingh0607/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=ayushsingh0607&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-
 <!-- - **[Detailed Stats](https://gitstats.me/ayushsingh0607)** -->
