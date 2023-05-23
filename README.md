@@ -56,4 +56,4 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh0607&theme=tokyonight" align = "center" width="50%">
 </p>
-- **[Detailed Stats](https://gitstats.me/ayushsingh0607)**
+<!-- - **[Detailed Stats](https://gitstats.me/ayushsingh0607)** -->
