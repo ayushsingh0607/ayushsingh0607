@@ -49,11 +49,8 @@
 <p align = "left">
      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh0607&theme=radical" align = "left" width="40%">
 </p>
-<!-- <p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=ayushsingh0607&show_icons=true&theme=radical" align = "right" width="55%">
-</p>
- -->
-<p align = "center">
+
+<!-- <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh0607&theme=tokyonight" align = "center" width="50%">
-</p>
+</p> -->
 <!-- - **[Detailed Stats](https://gitstats.me/ayushsingh0607)** -->
